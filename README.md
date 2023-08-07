@@ -17,14 +17,9 @@ The project is structured as follows:
 ## Usage
 1. Clone this repository to your local machine.
 2. Install the required dependencies using the following command:
+pip install -r requirements.txt vbnet
+Copy code
 3. Open and run the Jupyter Notebook `composer_classification.ipynb` to see the step-by-step process, from data preprocessing to model evaluation.
 
 ## Contributing
 Contributions to this project are welcome. If you find any issues or want to add new features, feel free to open a pull request or submit an issue.
-
-
-
-
-
-
-
